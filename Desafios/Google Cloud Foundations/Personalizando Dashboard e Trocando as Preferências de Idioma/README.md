@@ -9,11 +9,11 @@ Personalizando Dashboard e Trocando as Preferências de Idioma
 </p>
 
 <p align="center">
-  <img src="../../assets/Dashboard_02.png" alt="Image" width="100%" />
+  <img src="../../../assets/Dashboard_02.png" alt="Image" width="100%" />
 </p>
 
 <p align="center">
-  <img src="../assets/Dashboard_03.png" alt="Image" width="100%" />
+  <img src="../../../assets/Dashboard_03.png" alt="Image" width="100%" />
 </p>
 
 
