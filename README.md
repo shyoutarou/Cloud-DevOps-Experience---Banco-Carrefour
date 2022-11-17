@@ -19,27 +19,27 @@
 		</tr>
 		<tr>
 			<td>Desenhando Sua Organização de Pastas e Projetos e Grupos de Acessos na Google Cloud Platform</td>
-			<td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/Encaixa%20ou%20N%C3%A3o">Código</a></td>
+			<td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/Encaixa%20ou%20N%C3%A3o">Link</a></td>
 			<td align="center">❌</td>
 		</tr>
 		<tr>
 			<td>Definição de Orçamento de Billing na Google Cloud Platform</td>
-			<td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/Tipo%20de%20Combust%C3%ADvel">Código</a></td>
+			<td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/Tipo%20de%20Combust%C3%ADvel">Link</a></td>
 			<td align="center">❌</td>
 		</tr>
 		<tr>
 			<td>Exportação do Billing na Google Cloud Platform</td>
-			<td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/Crescimento%20Populacional">Código</a></td>
+			<td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/Crescimento%20Populacional">Link</a></td>
 			<td align="center">❌</td>
 		</tr>
 		<tr>
 			<td>Personalizando Dashboard e Trocando as Preferências de Idioma</td>
-			<td><a href="https://github.com/shyoutarou/Cloud-DevOps-Experience---Banco-Carrefour/tree/master/Desafios/Google%20Cloud%20Foundations/Personalizando%20Dashboard%20e%20Trocando%20as%20Prefer%C3%AAncias%20de%20Idioma">Código</a></td>
+			<td><a href="https://github.com/shyoutarou/Cloud-DevOps-Experience---Banco-Carrefour/tree/master/Desafios/Google%20Cloud%20Foundations/Personalizando%20Dashboard%20e%20Trocando%20as%20Prefer%C3%AAncias%20de%20Idioma">Link</a></td>
 			<td align="center">✔️</td>
 		</tr>
 		<tr>
 			<td>Utilizando o Cloud Shell</td>
-			<td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/Sequ%C3%AAncia%20L%C3%B3gica">Código</a></td>
+			<td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/Sequ%C3%AAncia%20L%C3%B3gica">Link</a></td>
 			<td align="center">✔️</td>
 		</tr>
 	</table>          
@@ -55,7 +55,7 @@
 		</tr>
 		<tr>
 			<td>Criando Pipeline de CI/CD com Cloud Build e Terraform</td>
-			<td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Solucionando%20Problemas%20B%C3%A1sicos%20em%20Ruby/Par%20ou%20%C3%8Dmpar">Código</a></td>
+			<td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Solucionando%20Problemas%20B%C3%A1sicos%20em%20Ruby/Par%20ou%20%C3%8Dmpar">Link</a></td>
 			<td align="center">❌</td>
 		</tr>               
 	</table>
