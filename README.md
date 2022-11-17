@@ -39,7 +39,7 @@
 		</tr>
 		<tr>
 			<td>Utilizando o Cloud Shell</td>
-			<td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/Sequ%C3%AAncia%20L%C3%B3gica">Link</a></td>
+			<td><a href="https://github.com/shyoutarou/Cloud-DevOps-Experience---Banco-Carrefour/tree/master/Desafios/Google%20Cloud%20Foundations/Utilizando%20o%20Cloud%20Shell">Link</a></td>
 			<td align="center">✔️</td>
 		</tr>
 	</table>          
