@@ -62,7 +62,7 @@
 </div>
 
 ## Instrutor
-Carlos Gomes
+Carlos Gomes Barbero
 [Arquiteto de Soluções Cloud, SantoDigital](https://br.linkedin.com/in/carlosrgbarbero?trk=people-guest_people_search-card)
 
 ## 🐛 Issues
