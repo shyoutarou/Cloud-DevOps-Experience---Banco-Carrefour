@@ -1,14 +1,15 @@
 ## Desafio
 
-Leia a hora inicial, minuto inicial, hora final e minuto final de um jogo.
-A seguir calcule a duração do jogo.
+Criando Pipeline de CICD com Cloud Build e Terraform
 
-Obs: O jogo tem duração mínima de um (1) minuto e duração máxima de 24 horas.
+## Fazer clone de Repositório Git com comando:
+[Link Repo java-docs-samples](https://github.com/GoogleCloudPlatform/java-docs-samples)
+```bash
+ git clone LINK_REPO
+```
+- ir diretório java-docs-samples/appengine-java11/quarkus-helloworld
 
-## Entrada
-Quatro números inteiros representando a hora de início e fim do jogo.
-
-
-## Saída
-Mostre a seguinte mensagem: “O JOGO DUROU XXX HORA(S) E YYY MINUTO(S)” .
-
+## Resposta
+<p align="center">
+  <img src="../../../assets/Shell_00.png" alt="Image" width="100%" />
+</p>

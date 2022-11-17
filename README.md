@@ -10,7 +10,7 @@
 <div align="left">
 	<table border=1>
 		<tr>
-			<th colspan="3"><a href="https://web.dio.me/coding/praticando-com-desafios-intermediarios-em-ruby/algorithm/encaixa-ou-nao-ii?back=/track/impulso-fullstack-developer">Google Cloud Foundations</a></th>
+			<th colspan="3"><a href="https://github.com/shyoutarou/Cloud-DevOps-Experience---Banco-Carrefour/tree/master/Desafios/Google%20Cloud%20Foundations">Google Cloud Foundations</a></th>
 		</tr>
 		<tr>
 			<th>Desafio</th>
@@ -19,12 +19,12 @@
 		</tr>
 		<tr>
 			<td>Desenhando Sua Organização de Pastas e Projetos e Grupos de Acessos na Google Cloud Platform</td>
-			<td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/Encaixa%20ou%20N%C3%A3o">Link</a></td>
+			<td><a href="https://github.com/shyoutarou/Cloud-DevOps-Experience---Banco-Carrefour/tree/master/Desafios/Google%20Cloud%20Foundations/Defini%C3%A7%C3%A3o%20de%20Or%C3%A7amento%20de%20Billing%20na%20Google%20Cloud%20Platform">Link</a></td>
 			<td align="center">❌</td>
 		</tr>
 		<tr>
 			<td>Definição de Orçamento de Billing na Google Cloud Platform</td>
-			<td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/Tipo%20de%20Combust%C3%ADvel">Link</a></td>
+			<td><a href="https://github.com/shyoutarou/Cloud-DevOps-Experience---Banco-Carrefour/tree/master/Desafios/Google%20Cloud%20Foundations/Exporta%C3%A7%C3%A3o%20do%20Billing%20na%20Google%20Cloud%20Platform">Link</a></td>
 			<td align="center">❌</td>
 		</tr>
 		<tr>
@@ -46,7 +46,7 @@
 	<!-- DevOps na Nuvem com Google Cloud Plataform (GCP) -->
 	<table border=1>
 		<tr>
-			<th colspan="3"><a href="https://web.dio.me/coding/solucionando-problemas-basicos-em-ruby/algorithm/par-ou-impar?back=/track/impulso-fullstack-developer">DevOps na Nuvem com Google Cloud Plataform (GCP)</a></th>
+			<th colspan="3"><a href="https://github.com/shyoutarou/Cloud-DevOps-Experience---Banco-Carrefour/tree/master/Desafios/DevOps%20na%20Nuvem%20com%20Google%20Cloud%20Plataform%20(GCP)">DevOps na Nuvem com Google Cloud Plataform (GCP)</a></th>
 		</tr>
 		<tr>
 			<th>Desafio</th>
@@ -55,7 +55,7 @@
 		</tr>
 		<tr>
 			<td>Criando Pipeline de CI/CD com Cloud Build e Terraform</td>
-			<td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Solucionando%20Problemas%20B%C3%A1sicos%20em%20Ruby/Par%20ou%20%C3%8Dmpar">Link</a></td>
+			<td><a href="https://github.com/shyoutarou/Cloud-DevOps-Experience---Banco-Carrefour/tree/master/Desafios/DevOps%20na%20Nuvem%20com%20Google%20Cloud%20Plataform%20(GCP)/Criando%20Pipeline%20de%20CICD%20com%20Cloud%20Build%20e%20Terraform">Link</a></td>
 			<td align="center">❌</td>
 		</tr>               
 	</table>

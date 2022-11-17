@@ -1,6 +1,6 @@
 ## Desafio
 
-Definição de Orçamento de Billing na Google Cloud Platform
+Desenhando Sua Organização de Pastas e Projetos e Grupos de Acessos na Google Cloud Platform
 
 ## Fazer clone de Repositório Git com comando:
 [Link Repo java-docs-samples](https://github.com/GoogleCloudPlatform/java-docs-samples)
