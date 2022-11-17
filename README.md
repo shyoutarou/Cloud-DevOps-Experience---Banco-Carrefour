@@ -61,6 +61,10 @@
 	</table>
 </div>
 
+## Instrutor
+Carlos Gomes
+[Arquiteto de Soluções Cloud, SantoDigital](https://br.linkedin.com/in/carlosrgbarbero?trk=people-guest_people_search-card)
+
 ## 🐛 Issues
 
 Sinta-se à vontade para registrar um novo problema com o respectivo título e descrição no repositório do projeto. Se você já encontrou uma solução para seu problema, adoraria revisar sua solicitação de pull!
