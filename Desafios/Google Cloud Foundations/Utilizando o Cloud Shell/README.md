@@ -4,10 +4,15 @@ Utilizando o Cloud Shell
 
 ## Fazer clone de Repositório Git com comando:
 [Link Repo java-docs-samples](https://github.com/GoogleCloudPlatform/java-docs-samples)
+
+<p align="center">
+  <img src="../../../assets/Shell_00.png" alt="Image" width="100%" />
+</p>
+
 ```bash
  git clone LINK_REPO
 ```
-- ir diretório java-docs-samples/appengine-java11/quarkus-helloworld
+- Depois de clonado, ir diretório java-docs-samples/appengine-java11/quarkus-helloworld
 
 ## Implantar um aplicativo Quarkus no Google App Engine padrão
 - digitar comando mvn clean install
