@@ -1,23 +1,3 @@
-## Desafio
-
-Desenhe uma organização de grupo de acessos e de uma organização utilizando o Draw.io e suba no seu github
-
-## Utilizar ferramenta de diagramas:
-
-O diagrams.net é um software de desenho gráfico multiplataforma gratuito e de código aberto desenvolvido em HTML5 e JavaScript. Sua interface pode ser usada para criar diagramas como fluxogramas, wireframes, diagramas UML, organogramas e diagramas de rede.
-
-[Link diagrams.net](https://app.diagrams.net/)
-
-## Resposta
-<p align="center">
-  <img src="../../../assets/Diagrama_Empresa.png" alt="Image" width="100%" />
-</p>
-
-## Modelo implemenação Terraform:
-
-[Link modelo Terraform](github.com/digitalinnovationone/trilha-gcp-fundations-terraform-projetosfolders)
-
-```bash
 provider "google" {
   project = "anonima-project-node"
   region  = "us-central1"
@@ -90,7 +70,4 @@ resource "google_project" "anonima-sup-qa" {
   auto_create_network=false
   billing_account = "018973-A8340F-83D8E5"
 }
-
-```
-
 
