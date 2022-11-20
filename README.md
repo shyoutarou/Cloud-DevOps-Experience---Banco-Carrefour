@@ -25,12 +25,12 @@
 		<tr>
 			<td>Definição de Orçamento de Billing na Google Cloud Platform</td>
 			<td><a href="https://github.com/shyoutarou/Cloud-DevOps-Experience---Banco-Carrefour/tree/master/Desafios/Google%20Cloud%20Foundations/Exporta%C3%A7%C3%A3o%20do%20Billing%20na%20Google%20Cloud%20Platform">Link</a></td>
-			<td align="center">❌</td>
+			<td align="center">✔️</td>
 		</tr>
 		<tr>
 			<td>Exportação do Billing na Google Cloud Platform</td>
-			<td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Ruby/Praticando%20com%20Desafios%20Intermedi%C3%A1rios%20em%20Ruby/Crescimento%20Populacional">Link</a></td>
-			<td align="center">❌</td>
+			<td><a href="https://github.com/shyoutarou/Cloud-DevOps-Experience---Banco-Carrefour/tree/master/Desafios/Google%20Cloud%20Foundations/Exporta%C3%A7%C3%A3o%20do%20Billing%20na%20Google%20Cloud%20Platform">Link</a></td>
+			<td align="center">✔️</td>
 		</tr>
 		<tr>
 			<td>Personalizando Dashboard e Trocando as Preferências de Idioma</td>
