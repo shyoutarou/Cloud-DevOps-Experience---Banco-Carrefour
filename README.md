@@ -6,8 +6,66 @@
 </p>
 
 
-<!-- Google Cloud Foundations -->
 <div align="left">
+	<!-- Desmistificando o Docker -->
+	<table border=1>
+		<tr>
+			<th colspan="3"><a href="https://github.com/shyoutarou/Cloud-DevOps-Experience---Banco-Carrefour/tree/master/Desafios/DevOps%20na%20Nuvem%20com%20Google%20Cloud%20Plataform%20(GCP)">Desmistificando o Docker</a></th>
+		</tr>
+		<tr>
+			<th>Desafio</th>
+			<th>Solução</th>
+			<th>Status</th>
+		</tr>
+		<tr>
+			<td>Criando um Container de uma Aplicação WEB</td>
+			<td><a href="https://github.com/shyoutarou/Cloud-DevOps-Experience---Banco-Carrefour/tree/master/Desafios/DevOps%20na%20Nuvem%20com%20Google%20Cloud%20Plataform%20(GCP)/Criando%20Pipeline%20de%20CICD%20com%20Cloud%20Build%20e%20Terraform">Link</a></td>
+			<td align="center">❌</td>
+		</tr>   
+		<tr>
+			<td>Definição de um Cluster Swarm Local com o Vagrant</td>
+			<td><a href="https://github.com/shyoutarou/Cloud-DevOps-Experience---Banco-Carrefour/tree/master/Desafios/DevOps%20na%20Nuvem%20com%20Google%20Cloud%20Plataform%20(GCP)/Criando%20Pipeline%20de%20CICD%20com%20Cloud%20Build%20e%20Terraform">Link</a></td>
+			<td align="center">❌</td>
+		</tr> 		
+	</table>
+	<!-- Kubernetes do Zero à Produção -->
+	<table border=1>
+		<tr>
+			<th colspan="3"><a href="https://github.com/shyoutarou/Cloud-DevOps-Experience---Banco-Carrefour/tree/master/Desafios/DevOps%20na%20Nuvem%20com%20Google%20Cloud%20Plataform%20(GCP)">Kubernetes do Zero à Produção</a></th>
+		</tr>
+		<tr>
+			<th>Desafio</th>
+			<th>Solução</th>
+			<th>Status</th>
+		</tr>
+		<tr>
+			<td>Criando um Deploy de uma Aplicação</td>
+			<td><a href="https://github.com/shyoutarou/Cloud-DevOps-Experience---Banco-Carrefour/tree/master/Desafios/DevOps%20na%20Nuvem%20com%20Google%20Cloud%20Plataform%20(GCP)/Criando%20Pipeline%20de%20CICD%20com%20Cloud%20Build%20e%20Terraform">Link</a></td>
+			<td align="center">❌</td>
+		</tr>               
+	</table>
+	<!-- Arquiteturas de Aplicações e CI/CD na Prática -->
+	<table border=1>
+		<tr>
+			<th colspan="3"><a href="https://github.com/shyoutarou/Cloud-DevOps-Experience---Banco-Carrefour/tree/master/Desafios/DevOps%20na%20Nuvem%20com%20Google%20Cloud%20Plataform%20(GCP)">Arquiteturas de Aplicações e CI/CD na Prática</a></th>
+		</tr>
+		<tr>
+			<th>Desafio</th>
+			<th>Solução</th>
+			<th>Status</th>
+		</tr>
+		<tr>
+			<td>Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso</td>
+			<td><a href="https://github.com/shyoutarou/Cloud-DevOps-Experience---Banco-Carrefour/tree/master/Desafios/DevOps%20na%20Nuvem%20com%20Google%20Cloud%20Plataform%20(GCP)/Criando%20Pipeline%20de%20CICD%20com%20Cloud%20Build%20e%20Terraform">Link</a></td>
+			<td align="center">❌</td>
+		</tr>  
+		<tr>
+			<td>Criando um Pipeline de Deploy com GitLab e Kubernetes</td>
+			<td><a href="https://github.com/shyoutarou/Cloud-DevOps-Experience---Banco-Carrefour/tree/master/Desafios/DevOps%20na%20Nuvem%20com%20Google%20Cloud%20Plataform%20(GCP)/Criando%20Pipeline%20de%20CICD%20com%20Cloud%20Build%20e%20Terraform">Link</a></td>
+			<td align="center">❌</td>
+		</tr> 		
+	</table>	
+	<!-- Google Cloud Foundations -->
 	<table border=1>
 		<tr>
 			<th colspan="3"><a href="https://github.com/shyoutarou/Cloud-DevOps-Experience---Banco-Carrefour/tree/master/Desafios/Google%20Cloud%20Foundations">Google Cloud Foundations</a></th>
@@ -61,9 +119,18 @@
 	</table>
 </div>
 
-## Instrutor
-Carlos Gomes Barbero
+## Instrutores 
+
+Denilson Bonatti 
+[Instrutor, DIO](https://www.linkedin.com/in/denilson-bonatti-54a14529/?original_referer=)
+- Desmistificando o Docker
+- Kubernetes do Zero à Produção
+- Arquiteturas de Aplicações e CI/CD na Prática
+
+Carlos Gomes Barbero 
 [Arquiteto de Soluções Cloud, SantoDigital](https://br.linkedin.com/in/carlosrgbarbero?trk=people-guest_people_search-card)
+- Google Cloud Foundations
+- DevOps na Nuvem com Google Cloud Plataform (GCP)
 
 ## 🐛 Issues
 
