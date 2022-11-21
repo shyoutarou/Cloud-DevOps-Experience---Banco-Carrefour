@@ -27,7 +27,7 @@ apt install docker-compose
   <img src="../../../assets/Docker_Compose_03.png" alt="Image" width="100%" />
 </p>
 
-Depois o seguinte o comando:
+Depois o seguinte o comando para gerar o arquivo:
 ```bash
 docker-compose up -d
 ```

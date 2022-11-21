@@ -19,8 +19,8 @@
 		</tr>
 		<tr>
 			<td>Criando um Container de uma Aplicação WEB</td>
-			<td><a href="https://github.com/shyoutarou/Cloud-DevOps-Experience---Banco-Carrefour/tree/master/Desafios/DevOps%20na%20Nuvem%20com%20Google%20Cloud%20Plataform%20(GCP)/Criando%20Pipeline%20de%20CICD%20com%20Cloud%20Build%20e%20Terraform">Link</a></td>
-			<td align="center">❌</td>
+			<td><a href="https://github.com/shyoutarou/Cloud-DevOps-Experience---Banco-Carrefour/tree/master/Desafios/Desmistificando%20o%20Docker/Criando%20um%20Container%20de%20uma%20Aplica%C3%A7%C3%A3o%20WEB">Link</a></td>
+			<td align="center">✔️</td>
 		</tr>   
 		<tr>
 			<td>Definição de um Cluster Swarm Local com o Vagrant</td>
